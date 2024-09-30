@@ -16,8 +16,9 @@
   <img src="https://leetcard.jacoblin.cool/gunjesh843?theme=transparent&font=Chakra%20Petch&ext=heatmap" alt="LeetCode Stats" />
 
   <!-- Custom GIFs with different sizes -->
-  <img src="2024-08.gif" alt="GIF 1" width="150" />
-  <img src="2024-50.gif" alt="GIF 2" width="200" />
-  <img src="2024-09.gif" alt="GIF 3" width="150" />
-
+  <div align="center">
+  <img src="2024-08.gif" width="150" alt="GIF 1">
+  <img src="2024-50.gif" width="200" alt="GIF 2">
+  <img src="2024-09.gif" width="150" alt="GIF 3">
 </div>
+
