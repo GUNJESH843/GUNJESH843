@@ -15,8 +15,6 @@
   <!-- LeetCode Stats -->
   <img src="https://leetcard.jacoblin.cool/gunjesh843?theme=transparent&font=Chakra%20Petch&ext=heatmap" alt="LeetCode Stats" />
 
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=gunjesh843&theme=github-dark&border=no-border&animated=true" alt="LeetCode Stats" />
-
   <!-- Custom GIFs with different sizes -->
   <div align="center">
   <img src="2024-08.gif" width="100" alt="GIF 1">
