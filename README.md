@@ -27,7 +27,7 @@
   </a>
 
 ### Leetcode Stats:
-  <div>
+  <div align="left" style="width: 250px;">
       <img src="https://leetcard.jacoblin.cool/gunjesh843?theme=radical&font=Fenix&ext=heatmap" alt="LeetCode Stats" />
     </div>
       <strong>LeetCode Badges 🏆</strong><br>
