@@ -1,4 +1,4 @@
-# Hi there 👋 my name is Gunjesh
+## Hi there 👋 my name is Gunjesh
 
 <div align="center">
 
@@ -16,27 +16,9 @@
   <img src="https://leetcard.jacoblin.cool/gunjesh843?theme=transparent&font=Chakra%20Petch&ext=heatmap" alt="LeetCode Stats" />
 
   <!-- Custom GIFs with different sizes -->
-  <h2>Custom GIFs</h2>
   <div align="center">
-    <img src="2024-08.gif" width="100" alt="GIF 1" class="rotating-gif">
-    <img src="2024-50.gif" width="150" alt="GIF 2" class="rotating-gif">
-    <img src="2024-100.gif" width="200" alt="GIF 3" class="rotating-gif">
-    <img src="2024-09.gif" width="100" alt="GIF 4" class="rotating-gif">
-  </div>
+  <img src="2024-08.gif" width="100" alt="GIF 1">
+  <img src="2024-50.gif" width="150" alt="GIF 2">
+  <img src="2024-100.gif" width="200" alt="GIF 3">
+  <img src="2024-09.gif" width="100" alt="GIF 4">
 </div>
-
-<style>
-    @keyframes rotate {
-        from {
-            transform: rotate(0deg);
-        }
-        to {
-            transform: rotate(360deg);
-        }
-    }
-
-    .rotating-gif {
-        display: inline-block;
-        animation: rotate 5s linear infinite; /* Adjust duration as needed */
-    }
-</style>
