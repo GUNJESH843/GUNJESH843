@@ -13,7 +13,7 @@
   </a>
 
   <!-- LeetCode Stats and Badges Side by Side -->
-  <div style="display: flex; justify-content: center; align-items: center; margin-top: 10px;">
+  <div style="display: flex; justify-content: left; align-items: center; margin-top: 10px;">
     <div>
       <img src="https://leetcard.jacoblin.cool/gunjesh843?theme=dark&font=Fenix&ext=heatmap" alt="LeetCode Stats" />
     </div>
