@@ -24,19 +24,19 @@
   ## Highlight Badge
   <img src="2024-100.gif" width="150" alt="Highlight Badge" />
 
-  <!-- Monthly Badges Slot -->
-  ## Monthly Badges
-  <div>
-      <img src="2024-08.gif" width="100" alt="Monthly Badge 1" />
-      <img src="2024-09.gif" width="100" alt="Monthly Badge 2" />
-      <!-- Add more monthly badges as needed -->
-  </div>
-
   <!-- Achievements Slot -->
   ## Achievements
   <div>
       <img src="2024-50.gif" width="100" alt="Achievement Badge 1" />
       <!-- Add more achievement badges as needed -->
+  </div>
+
+   <!-- Monthly Badges Slot -->
+  ## Monthly Badges
+  <div>
+      <img src="2024-08.gif" width="100" alt="Monthly Badge 1" />
+      <img src="2024-09.gif" width="100" alt="Monthly Badge 2" />
+      <!-- Add more monthly badges as needed -->
   </div>
 
 </div>
