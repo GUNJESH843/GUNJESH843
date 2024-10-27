@@ -15,7 +15,7 @@
   <!-- LeetCode Stats and Badges Side by Side -->
   <div style="display: flex; justify-content: left; align-items: center; margin-top: 10px;">
     <div>
-      <img src="https://leetcard.jacoblin.cool/gunjesh843?theme=wtf&font=Fenix&ext=heatmap" alt="LeetCode Stats" />
+      <img src="https://leetcard.jacoblin.cool/gunjesh843?theme=transparent&font=Fenix&ext=heatmap" alt="LeetCode Stats" />
     </div>
     <div style="margin-left: 20px;">
       <strong>LeetCode Badges 🏆</strong><br>
