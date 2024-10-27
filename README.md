@@ -16,13 +16,27 @@
   <img src="https://leetcard.jacoblin.cool/gunjesh843?theme=transparent&font=Chakra%20Petch&ext=heatmap" alt="LeetCode Stats" />
 
   <!-- Custom GIFs with different sizes -->
-  <div align="center">
-  <img src="2024-08.gif" width="50" alt="Leetcode August Badge">
-    
-  <img src="2024-50.gif" width="100" alt="Leetcode 50 days badge">
-  
-  <img src="2024-100.gif" width="150" alt="Leetcode 100 days Badge">
-  
-  <img src="2024-09.gif" width="50" alt="Leetcode September Badge">
-  
+  # LeetCode Badges 🏆
+
+<div align="center">
+
+  <!-- Highlight Badge Slot -->
+  ## Highlight Badge
+  <img src="2024-100.gif" width="150" alt="Highlight Badge" />
+
+  <!-- Monthly Badges Slot -->
+  ## Monthly Badges
+  <div>
+      <img src="2024-08.gif" width="100" alt="Monthly Badge 1" />
+      <img src="2024-09.gif" width="100" alt="Monthly Badge 2" />
+      <!-- Add more monthly badges as needed -->
+  </div>
+
+  <!-- Achievements Slot -->
+  ## Achievements
+  <div>
+      <img src="2024-50.gif" width="100" alt="Achievement Badge 1" />
+      <!-- Add more achievement badges as needed -->
+  </div>
+
 </div>
