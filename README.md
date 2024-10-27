@@ -23,11 +23,9 @@
   </a>
 </div>
 
-## 🏆 LeetCode Stats:
-<div align="left">
-  <div style="display: flex; flex-direction: row; align-items: flex-start;">
-    <img src="https://leetcard.jacoblin.cool/gunjesh843?theme=radical&font=Fenix&ext=heatmap" alt="LeetCode Stats" width="495" />
-    <div style="margin-left: 10px;">
+## 🏆 LeetCode Stats: 
+  <img src="https://leetcard.jacoblin.cool/gunjesh843?theme=radical&font=Fenix&ext=heatmap" alt="LeetCode Stats" width="495" />
+
       
       
   <strong>LeetCode Badges</strong><br>
