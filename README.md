@@ -26,26 +26,27 @@
 ## 🏆 LeetCode Stats: 
   <img src="https://leetcard.jacoblin.cool/gunjesh843?theme=radical&font=Fenix&ext=heatmap" alt="LeetCode Stats" width="495" />
 
-<strong>LeetCode Badges</strong><br>
-<table>
+<strong style="font-size: 14px;">LeetCode Badges</strong><br>
+<table style="font-size: 12px;">
   <tr>
     <td style="text-align: center; padding: 5px;">
       <strong>Highlight</strong><br>
-      <img src="2024-100.gif" alt="Highlight Badge" />
+      <img src="2024-100.gif" alt="Highlight Badge" width="60" />
     </td>
     <td style="text-align: center; padding: 5px;">
       <strong>Achievements</strong><br>
-      <img src="2024-50.gif" alt="Achievement Badge 1" />
+      <img src="2024-50.gif" alt="Achievement Badge 1" width="60" />
     </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align: center; padding: 5px;">
       <strong>Monthly Badges</strong><br>
-      <img src="2024-08.gif" alt="Monthly Badge 1" />
-      <img src="2024-09.gif" alt="Monthly Badge 2" />
+      <img src="2024-08.gif" alt="Monthly Badge 1" width="50" />
+      <img src="2024-09.gif" alt="Monthly Badge 2" width="50" />
     </td>
   </tr>
 </table>
+
 
 
 ## 🤝 Connect with me:
