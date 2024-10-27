@@ -1,7 +1,7 @@
-## Hello World!👋I'am Gunjesh
+# Hello World!👋I'am Gunjesh
 ### Software Engineering Undergraduat @ [GVPCE](https://gvpce.ac.in/)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -13,18 +13,20 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+# GitHub Stats:
 <div align="center">
 
-  <!-- GitHub Stats -->
+  <!GitHub Stats>
   <a href="https://git.io/awesome-stats-card">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/gunjesh843?cardType=github&theme=github-dark&preferLogin=false&Background=00000000&Border=00000000" alt="My Awesome Stats" />
   </a>
 
-  <!-- GitHub Streak -->
+  <!GitHub Streak>
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=gunjesh843&theme=transparent&hide_border=true" alt="GitHub Streak" />
   </a>
 
+### Leetcode Stats:
   <div>
       <img src="https://leetcard.jacoblin.cool/gunjesh843?theme=radical&font=Fenix&ext=heatmap" alt="LeetCode Stats" />
     </div>
