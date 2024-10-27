@@ -29,7 +29,7 @@
           </td>
         </tr>
         <tr>
-          <td style="text-align: center; padding: 10px;">
+          <td colspan = "2">
             <strong>Monthly Badge</strong><br>
             <img src="2024-08.gif" width="100" alt="Monthly Badge 1" />
             <img src="2024-09.gif" width="100" alt="Monthly Badge 2" />
