@@ -19,6 +19,6 @@
   <div align="center">
   <img src="2024-08.gif" width="100" alt="Leetcode August Badge">
   <img src="2024-50.gif" width="150" alt="Leetcode 50 days badge">
-  <img src="2024-100.gif" width="180" alt="Leetcode 100 days Badge">
+  <img src="2024-100.gif" width="150" alt="Leetcode 100 days Badge">
   <img src="2024-09.gif" width="100" alt="Leetcode September Badge">
 </div>
