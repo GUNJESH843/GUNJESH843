@@ -28,21 +28,23 @@
   <div style="display: flex; flex-direction: row; align-items: flex-start;">
     <img src="https://leetcard.jacoblin.cool/gunjesh843?theme=radical&font=Fenix&ext=heatmap" alt="LeetCode Stats" width="495" />
     <div style="margin-left: 20px;">
-      <strong>LeetCode Badges</strong><br>
+      
+      
+  <strong>LeetCode Badges</strong><br>
       <table>
         <tr>
-          <td style="text-align: center; padding: 10px;">
+          <td style="text-align: center; padding: 5px;">
             <strong>Highlight</strong><br>
             <img src="2024-100.gif" alt="Highlight Badge" />
           </td>
-          <td style="text-align: center; padding: 10px;">
+          <td style="text-align: center; padding: 5px;">
             <strong>Achievements</strong><br>
             <img src="2024-50.gif" alt="Achievement Badge 1" /><br>
             <!-- Add more achievement badges as needed -->
           </td>
         </tr>
         <tr>
-          <td colspan="2" style="text-align: center; padding: 10px;">
+          <td colspan="2" style="text-align: center; padding: 5px;">
             <strong>Monthly Badges</strong><br>
             <img src="2024-08.gif" alt="Monthly Badge 1" />
             <img src="2024-09.gif" alt="Monthly Badge 2" />
