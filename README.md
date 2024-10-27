@@ -26,7 +26,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=gunjesh843&theme=transparent&hide_border=true" alt="GitHub Streak" />
   </a>
 
-### Leetcode Stats:
+# Leetcode Stats:
   <div align="left" style="width: 250px;">
       <img src="https://leetcard.jacoblin.cool/gunjesh843?theme=radical&font=Fenix&ext=heatmap" alt="LeetCode Stats" />
     </div>
