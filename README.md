@@ -31,12 +31,6 @@
                 transform: rotate(360deg);
             }
         }
-
-        .rotating-gif {
-            display: inline-block;
-            animation: rotate 5s linear infinite; /* Adjust duration as needed */
-        }
-    </style>
 </head>
 <body>
     <div align="center">
