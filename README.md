@@ -20,7 +20,7 @@
 <table>
     <tr>
         <td>
-            <strong>Highlight Badge</strong><br>
+            <strong>Highlight</strong><br>
             <img src="2024-100.gif" width="200" alt="Highlight Badge" />
         </td>
         <td>
