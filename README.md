@@ -17,29 +17,26 @@
 
   # LeetCode Badges 🏆
 
-  <!-- Highlight Badge Slot -->
-  <div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 10px; margin: 10px; width: 300px;">
-    <h3>Highlight Badge</h3>
-    <img src="2024-100.gif" width="150" alt="Highlight Badge" />
-  </div>
-
-  <!-- Achievements Slot -->
-  <div style="border: 2px solid #FF9800; border-radius: 10px; padding: 10px; margin: 10px; width: 300px;">
-    <h3>Achievements</h3>
-    <div>
-      <img src="2024-50.gif" width="100" alt="Achievement Badge 1" />
-      <!-- Add more achievement badges as needed -->
-    </div>
-  </div>
-
-  <!-- Monthly Badges Slot -->
-  <div style="border: 2px solid #2196F3; border-radius: 10px; padding: 10px; margin: 10px; width: 300px;">
-    <h3>Monthly Badges</h3>
-    <div>
-      <img src="2024-08.gif" width="100" alt="Monthly Badge 1" />
-      <img src="2024-09.gif" width="100" alt="Monthly Badge 2" />
-      <!-- Add more monthly badges as needed -->
-    </div>
-  </div>
+  <table>
+    <tr>
+      <td style="border: 2px solid #4CAF50; border-radius: 10px; padding: 10px; width: 150px; text-align: center;">
+        <strong>Highlight Badge</strong><br>
+        <img src="2024-100.gif" width="150" alt="Highlight Badge" />
+      </td>
+      <td style="border: 2px solid #FF9800; border-radius: 10px; padding: 10px; width: 150px; text-align: center;">
+        <strong>Achievements</strong><br>
+        <img src="2024-50.gif" width="100" alt="Achievement Badge 1" /><br>
+        <!-- Add more achievement badges as needed -->
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="border: 2px solid #2196F3; border-radius: 10px; padding: 10px; text-align: center;">
+        <strong>Monthly Badges</strong><br>
+        <img src="2024-08.gif" width="100" alt="Monthly Badge 1" />
+        <img src="2024-09.gif" width="100" alt="Monthly Badge 2" /><br>
+        <!-- Add more monthly badges as needed -->
+      </td>
+    </tr>
+  </table>
 
 </div>
