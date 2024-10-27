@@ -27,7 +27,7 @@
   <img src="https://leetcard.jacoblin.cool/gunjesh843?theme=radical&font=Fenix&ext=heatmap" alt="LeetCode Stats" width="495" />
 
 <strong style="font-size: 20px;">LeetCode Badges</strong><br>
-<table style="font-size: 12px;">
+<table style="font-size: 20px;">
   <tr>
     <td style="text-align: center; padding: 5px;">
       <strong>Highlight</strong><br>
