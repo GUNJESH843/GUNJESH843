@@ -17,17 +17,15 @@
 
   # LeetCode Badges 🏆
 
-  ## LeetCode Badges 🏆
-
 <table>
     <tr>
         <td>
             <strong>Highlight Badge</strong><br>
-            <img src="2024-100.gif" width="150" alt="Highlight Badge" />
+            <img src="2024-100.gif" width="200" alt="Highlight Badge" />
         </td>
         <td>
             <strong>Achievements</strong><br>
-            <img src="2024-50.gif" width="100" alt="Achievement Badge 1" /><br>
+            <img src="2024-50.gif" width="150" alt="Achievement Badge 1" /><br>
             <!-- Add more achievement badges as needed -->
         </td>
     </tr>
