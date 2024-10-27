@@ -15,7 +15,6 @@
   <div>
       <img src="https://leetcard.jacoblin.cool/gunjesh843?theme=radical&font=Fenix&ext=heatmap" alt="LeetCode Stats" />
     </div>
-    <div style="margin-left: 20px;">
       <strong>LeetCode Badges 🏆</strong><br>
       <table>
         <tr>
@@ -31,11 +30,8 @@
         </tr>
         <tr>
           <td style="text-align: center; padding: 10px;">
-            <strong>Monthly Badge 1</strong><br>
+            <strong>Monthly Badge</strong><br>
             <img src="2024-08.gif" width="100" alt="Monthly Badge 1" />
-          </td>
-          <td style="text-align: center; padding: 10px;">
-            <strong>Monthly Badge 2</strong><br>
             <img src="2024-09.gif" width="100" alt="Monthly Badge 2" />
           </td>
         </tr>
