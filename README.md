@@ -59,7 +59,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gunjesh843@gmail.com)
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=gunjesh843&label=Profile%20Views&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=gunjesh843&label=Profile%20Views&color=12&icon=0&pretty=false" />
 </a>
 
 
