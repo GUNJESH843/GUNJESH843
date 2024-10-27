@@ -27,6 +27,7 @@
   </a>
 
 # Leetcode Stats:
+<div align="center">
   <div align="left" style="width: 250px;">
       <img src="https://leetcard.jacoblin.cool/gunjesh843?theme=radical&font=Fenix&ext=heatmap" alt="LeetCode Stats" />
     </div>
