@@ -31,11 +31,11 @@
   <tr>
     <td style="text-align: center; padding: 5px;">
       <strong>Highlight</strong><br>
-      <img src="2024-100.gif" alt="Highlight Badge" width="60" />
+      <img src="2024-100.gif" alt="Highlight Badge" width="150" />
     </td>
     <td style="text-align: center; padding: 5px;">
       <strong>Achievements</strong><br>
-      <img src="2024-50.gif" alt="Achievement Badge 1" width="60" />
+      <img src="2024-50.gif" alt="Achievement Badge 1" width="100" />
     </td>
   </tr>
   <tr>
