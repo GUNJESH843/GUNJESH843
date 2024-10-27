@@ -15,28 +15,31 @@
   <!-- LeetCode Stats -->
   <img src="https://leetcard.jacoblin.cool/gunjesh843?theme=transparent&font=Chakra%20Petch&ext=heatmap" alt="LeetCode Stats" />
 
-  <!-- Custom GIFs with different sizes -->
   # LeetCode Badges 🏆
 
-<div align="center">
-
   <!-- Highlight Badge Slot -->
-  ## Highlight Badge
-  <img src="2024-100.gif" width="150" alt="Highlight Badge" />
-
-  <!-- Achievements Slot -->
-  ## Achievements
-  <div>
-      <img src="2024-50.gif" width="100" alt="Achievement Badge 1" />
-      <!-- Add more achievement badges as needed -->
+  <div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 10px; margin: 10px; width: 300px;">
+    <h3>Highlight Badge</h3>
+    <img src="2024-100.gif" width="150" alt="Highlight Badge" />
   </div>
 
-   <!-- Monthly Badges Slot -->
-  ## Monthly Badges
-  <div>
+  <!-- Achievements Slot -->
+  <div style="border: 2px solid #FF9800; border-radius: 10px; padding: 10px; margin: 10px; width: 300px;">
+    <h3>Achievements</h3>
+    <div>
+      <img src="2024-50.gif" width="100" alt="Achievement Badge 1" />
+      <!-- Add more achievement badges as needed -->
+    </div>
+  </div>
+
+  <!-- Monthly Badges Slot -->
+  <div style="border: 2px solid #2196F3; border-radius: 10px; padding: 10px; margin: 10px; width: 300px;">
+    <h3>Monthly Badges</h3>
+    <div>
       <img src="2024-08.gif" width="100" alt="Monthly Badge 1" />
       <img src="2024-09.gif" width="100" alt="Monthly Badge 2" />
       <!-- Add more monthly badges as needed -->
+    </div>
   </div>
 
 </div>
