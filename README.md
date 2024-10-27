@@ -1,5 +1,5 @@
 ## Hello World!👋I'am Gunjesh
-### Software Engineering Undergraduat @ [![GVPCE](https://gvpce.ac.in/)]
+### Software Engineering Undergraduat @ [GVPCE](https://gvpce.ac.in/)
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gunjesh843)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gunjeshkumar)
