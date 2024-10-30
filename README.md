@@ -67,7 +67,7 @@ Back-end: ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-ba
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gunjeshkumar)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gunjesh843@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-%23FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/gunjesh843/)
-[![Google Dev](https://img.shields.io/badge/-Google%20Dev-%23DB4437?style=flat&logo=google&logoColor=white)](https://developers.google.com/profile/u/gunjesh07)
+[![Google Dev](https://img.shields.io/badge/-Google%20Dev-%4285F4?style=flat&logo=google&logoColor=white)](https://developers.google.com/profile/u/gunjesh07)
 
 
 <a href="https://visitcount.itsvg.in">
