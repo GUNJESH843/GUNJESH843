@@ -62,10 +62,13 @@ Back-end: ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-ba
 
 
 
-## 🤝 Connect with me:
+## 🤝 Find me:
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gunjesh843)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gunjeshkumar)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gunjesh843@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-%23FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/gunjesh843/)
+[![Google Dev](https://img.shields.io/badge/-Google%20Dev-%23DB4437?style=flat&logo=google&logoColor=white)](https://developers.google.com/profile/u/gunjesh07)
+
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=gunjesh843&label=Profile%20Views&color=12&icon=0&pretty=false" />
