@@ -56,6 +56,7 @@ Back-end: ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-ba
       <strong>Monthly Badges</strong><br>
       <img src="2024-08.gif" alt="Monthly Badge 1" width="50" />
       <img src="2024-09.gif" alt="Monthly Badge 2" width="50" />
+      <img src="2024-10.gif" alt="Monthly Badge 3" width="50" />
     </td>
   </tr>
 </table>
