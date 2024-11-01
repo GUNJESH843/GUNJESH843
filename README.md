@@ -1,4 +1,4 @@
-# Hello World! 👋 I'm Gunjesh
+# Hello World! 👋 I'm Gunjesh Kumar
 ### Software Engineering Undergraduate @ [GVPCE](https://gvpce.ac.in/)
 
 ## 💻 Tech Stack:
