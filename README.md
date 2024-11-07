@@ -1,5 +1,7 @@
-# Hello World! 👋 I'm Gunjesh Kumar
-### Software Engineering Undergraduate @ [GVPCE](https://gvpce.ac.in/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=1000&center=true&width=1000&lines=Hello+World!)](https://git.io/typing-svg)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+### I'am a Software Engineering Undergraduate @ [GVPCE](https://gvpce.ac.in/)
 
 ## 💻 Tech Stack:
 #### Languages:
