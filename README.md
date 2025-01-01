@@ -60,7 +60,8 @@
       <img src="2024-08.gif" alt="Monthly Badge 1" width="50" />
       <img src="2024-09.gif" alt="Monthly Badge 2" width="50" />
       <img src="2024-10.gif" alt="Monthly Badge 3" width="50" />
-      <img src="2024-11.gif" alt="Monthly Badge 3" width="50" />
+      <img src="2024-11.gif" alt="Monthly Badge 4" width="50" />
+      <img src="2024-12.gif" alt="Monthly Badge 5" width="50" />
     </td>
   </tr>
 </table>
