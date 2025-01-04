@@ -76,8 +76,5 @@
 [![Google Dev](https://img.shields.io/badge/-Google%20Dev-%4285F4?style=flat&logo=google&logoColor=white)](https://developers.google.com/profile/u/gunjesh07)
 
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=gunjesh843&label=Profile%20Views&color=12&icon=0&pretty=false" />
-</a>
 
 
