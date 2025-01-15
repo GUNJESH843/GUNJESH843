@@ -1,6 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=100&center=true&width=1000&lines=Welcome+to+My+Profile!)](https://git.io/typing-svg)  
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<p align="center">
+ 🌐 <a href="https://gunjesh.netlify.app" target="_blank"><strong>Portfolio</strong></a> | ✍️ <a href="https://medium.com/@gunjesh843" target="_blank"><strong>Medium</strong></a>
+</p>
+---
+
 ## 👨‍💻 About Me:
 I am a passionate Software Engineering Undergraduate at  @[GVPCE](https://gvpce.ac.in/). I enjoy solving challenging problems, learning cutting-edge technologies, and building impactful software solutions.
 
