@@ -7,7 +7,6 @@ I am a passionate Software Engineering Undergraduate at  @[GVPCE](https://gvpce.
 ---
 
 ## 🏆 Trophies:
-  <summary><strong>Expand to View</strong></summary>
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=gunjesh843&theme=discord" alt="Trophies" />
