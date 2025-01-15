@@ -1,12 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=100&center=true&width=1000&lines=Hello+World!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=100&center=true&width=1000&lines=Welcome+to+My+Profile!)](https://git.io/typing-svg)  
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-### I'am a Software Engineering Undergraduate @ [GVPCE](https://gvpce.ac.in/)
+## 👨‍💻 About Me:
+I am a passionate Software Engineering Undergraduate at  @[GVPCE](https://gvpce.ac.in/). I enjoy solving challenging problems, learning cutting-edge technologies, and building impactful software solutions.
 
-<details>
-  <summary><strong>Trophies</strong></summary>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gunjesh843&theme=discord" alt="gunjesh" /></a> </p>
-  </details>
+---
+
+## 🏆 Trophies:
+  <summary><strong>Expand to View</strong></summary>
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=gunjesh843&theme=discord" alt="Trophies" />
+    </a>
+  </p>
+
+---
 
 ## 💻 Tech Stack:
 <table border="0" class="skills_table">
@@ -69,86 +77,45 @@
                           <td>OS</td>
                           <td>
                             <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Microsoft&logoColor=white" alt="Windows">
+                            <img src="https://img.shields.io/badge/Linux-2B579A?style=flat&logo=Microsoft&logoColor=white" alt="Linux">
                           </td>
                         </tr>
                       </table>
-                    
 
-## Participant in
-<div align="center">
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><a href="https://gssoc.girlscript.tech"><img src="https://github.com/user-attachments/assets/4382cf2c-7cfe-4aaf-9a01-5c26b163fef5" alt="GSSOC-2024"></a></td>
-      </tr>
-    </thead>
-    <tbody align="center">
-      <tr border: none;>
-        <td><b>GSSOC'24</b></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-<div align="center">
-
-## GSSOC'24 Badges
-<table align="center">
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="Postman Api Fundamentals Student Expert Badge" /></td>
-    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" alt="Explorer Badge" /></td>
-    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" alt="Adventurer Badge" /></td>
-    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" alt="Trailblazer Badge" /></td>
-    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" alt="Summit Seeker Badge" /></td>
-    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" alt="Champion Badge" /></td>
-  </tr>
-</table>
-
-<details>
-  <summary><strong>Trophies</strong></summary>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gunjesh843&theme=discord" alt="gunjesh" /></a> </p>
-  </details>
-
-
+---
 
 ## 📊 GitHub Stats:
-<div align="left">
+<div align="center">
   <a href="https://git.io/awesome-stats-card">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/gunjesh843?cardType=github&theme=github-dark&preferLogin=false&Background=00000000&Border=00000000" alt="My Awesome Stats" />
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/gunjesh843?cardType=github&theme=midnight-purple" alt="GitHub Stats" />
   </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=gunjesh843&theme=transparent&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjesh843&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
-## 🏆 LeetCode Stats: 
-  <img src="https://leetcard.jacoblin.cool/gunjesh843?theme=radical&font=Fenix&ext=heatmap" alt="LeetCode Stats" width="495" />
+---
 
-<strong style="font-size: 20px;">LeetCode Badges</strong><br>
-<table style="font-size: 20px;">
+## 🏆 LeetCode Stats:
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/gunjesh843?theme=radical&font=Fenix&ext=heatmap" alt="LeetCode Stats" />
+</div>
+
+### LeetCode Badges:
+<table align="center">
   <tr>
-    <td style="text-align: center; padding: 5px;">
-      <strong>Highlight</strong><br>
-      <img src="2024-100.gif" alt="Highlight Badge" width="150" />
-    </td>
-    <td style="text-align: center; padding: 5px;">
-      <strong>Achievements</strong><br>
-      <img src="2024-50.gif" alt="Achievement Badge 1" width="100" />
-    </td>
+    <td><strong>Highlight</strong><br><img src="2024-100.gif" alt="Highlight Badge" width="100" /></td>
+    <td><strong>Achievements</strong><br><img src="2024-50.gif" alt="Achievements Badge" width="100" /></td>
   </tr>
   <tr>
-    <td colspan="2" style="text-align: center; padding: 5px;">
-      <strong>Monthly Badges</strong><br>
-      <img src="2024-08.gif" alt="Monthly Badge 1" width="50" />
-      <img src="2024-09.gif" alt="Monthly Badge 2" width="50" />
-      <img src="2024-10.gif" alt="Monthly Badge 3" width="50" />
-      <img src="2024-11.gif" alt="Monthly Badge 4" width="50" />
-      <img src="2024-12.gif" alt="Monthly Badge 5" width="50" />
+    <td colspan="2"><strong>Monthly Badges</strong><br>
+      <img src="2024-08.gif" width="50" />
+      <img src="2024-09.gif" width="50" />
+      <img src="2024-10.gif" width="50" />
+      <img src="2024-11.gif" width="50" />
+      <img src="2024-12.gif" width="50" />
     </td>
   </tr>
 </table>
-
-
 
 ## 🤝 Find me:
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gunjesh843)
@@ -157,6 +124,4 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-%23FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/gunjesh843/)
 [![Google Dev](https://img.shields.io/badge/-Google%20Dev-%4285F4?style=flat&logo=google&logoColor=white)](https://developers.google.com/profile/u/gunjesh07)
 
-
-
-
+### ✨ Thank you for visiting my profile!
