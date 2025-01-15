@@ -19,8 +19,35 @@
 #### Back-end: 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 
+## Participant in
+<div align="center">
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><a href="https://gssoc.girlscript.tech"><img src="https://github.com/user-attachments/assets/4382cf2c-7cfe-4aaf-9a01-5c26b163fef5" alt="GSSOC-2024"></a></td>
+      </tr>
+    </thead>
+    <tbody align="center">
+      <tr border: none;>
+        <td><b>GSSOC'24</b></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
+<div align="center">
 
+## GSSOC'24 Badges
+<table align="center">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="Postman Api Fundamentals Student Expert Badge" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" alt="Explorer Badge" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" alt="Adventurer Badge" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" alt="Trailblazer Badge" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" alt="Summit Seeker Badge" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" alt="Champion Badge" /></td>
+  </tr>
+</table>
 
 
 
