@@ -3,6 +3,11 @@
 
 ### I'am a Software Engineering Undergraduate @ [GVPCE](https://gvpce.ac.in/)
 
+<details>
+  <summary><strong>Trophies</strong></summary>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gunjesh843&theme=discord" alt="gunjesh" /></a> </p>
+  </details>
+
 ## 💻 Tech Stack:
 <table border="0" class="skills_table">
                         <tr>
@@ -99,10 +104,10 @@
   </tr>
 </table>
 
-
-
-
-
+<details>
+  <summary><strong>Trophies</strong></summary>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gunjesh843&theme=discord" alt="gunjesh" /></a> </p>
+  </details>
 
 
 
