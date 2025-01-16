@@ -4,12 +4,10 @@
 <p align="center">
  🌐 <a href="https://gunjesh.netlify.app" target="_blank"><strong>Portfolio</strong></a> | ✍️ <a href="https://medium.com/@gunjesh843" target="_blank"><strong>Medium</strong></a>
 </p>
----
 
 ## 👨‍💻 About Me:
 I am a passionate Software Engineering Undergraduate at  @[GVPCE](https://gvpce.ac.in/). I enjoy solving challenging problems, learning cutting-edge technologies, and building impactful software solutions.
 
----
 
 ## 🏆 Trophies:
   <p align="center">
