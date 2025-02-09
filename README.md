@@ -115,6 +115,7 @@ I am a passionate Software Engineering Undergraduate at  @[GVPCE](https://gvpce.
       <img src="2024-10.gif" width="50" />
       <img src="2024-11.gif" width="50" />
       <img src="2024-12.gif" width="50" />
+      <img src="2025-01.gif" width="50" />
     </td>
   </tr>
 </table>
