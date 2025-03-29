@@ -125,3 +125,4 @@ I am a passionate Software Engineering Undergraduate at  @[GVPCE](https://gvpce.
 [![Google Dev](https://img.shields.io/badge/-Google%20Dev-%4285F4?style=flat&logo=google&logoColor=white)](https://developers.google.com/profile/u/gunjesh07)
 
 ### ✨ Thank you for visiting my profile!
+![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
