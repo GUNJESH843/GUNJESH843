@@ -101,8 +101,8 @@ I am a passionate Software Engineering Undergraduate at  @[GVPCE](https://gvpce.
 ### LeetCode Badges:
 <table align="center">
   <tr>
-    <td><strong>Highlight</strong><br><img src="2024-100.gif" alt="Highlight Badge" width="150" /><img src="2025-100.gif" alt="Highlight Badge" width="150" /></td>
-    <td><strong>Achievements</strong><br><img src="2024-50.gif" alt="Achievements Badge" width="100" /><br><img src="2025-50.gif" alt="Achievements Badge" width="100" /></td>
+    <td><strong>Highlight</strong><br><img src="knight.gif" alt="Highlight Badge" width="150" /></td>
+    <td><strong>Achievements</strong><br><img src="2024-100.gif" alt="Highlight Badge" width="120" /><img src="2025-100.gif" alt="Highlight Badge" width="120" /><img src="2024-50.gif" alt="Achievements Badge" width="100" /><br><img src="2025-50.gif" alt="Achievements Badge" width="100" /></td>
   </tr>
   <tr>
     <td colspan="2"><strong>Monthly Badges</strong><br>
@@ -114,6 +114,7 @@ I am a passionate Software Engineering Undergraduate at  @[GVPCE](https://gvpce.
       <img src="2025-01.gif" width="50" />
       <img src="2025-02.gif" width="50" />
       <img src="2025-03.gif" width="50" />
+      <img src="2025-05.gif" width="50" />
     </td>
   </tr>
 </table>
