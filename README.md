@@ -102,7 +102,7 @@ I am a passionate Software Engineering Undergraduate at  @[GVPCE](https://gvpce.
 <table align="center">
   <tr>
     <td><strong>Highlight</strong><br><img src="Knight.gif" alt="Highlight Badge" width="150" /></td>
-    <td><strong>Achievements</strong><br><img src="2024-100.gif" alt="Highlight Badge" width="120" /><img src="2025-100.gif" alt="Highlight Badge" width="120" /><img src="2024-50.gif" alt="Achievements Badge" width="100" /><br><img src="2025-50.gif" alt="Achievements Badge" width="100" /></td>
+    <td><strong>Achievements</strong><br><img src="2024-100.gif" alt="Highlight Badge" width="100" /><img src="2025-100.gif" alt="Highlight Badge" width="100" /></br><img src="2024-50.gif" alt="Achievements Badge" width="100" /><img src="2025-50.gif" alt="Achievements Badge" width="100" /></td>
   </tr>
   <tr>
     <td colspan="2"><strong>Monthly Badges</strong><br>
@@ -111,6 +111,7 @@ I am a passionate Software Engineering Undergraduate at  @[GVPCE](https://gvpce.
       <img src="2024-10.gif" width="50" />
       <img src="2024-11.gif" width="50" />
       <img src="2024-12.gif" width="50" />
+      </br>
       <img src="2025-01.gif" width="50" />
       <img src="2025-02.gif" width="50" />
       <img src="2025-03.gif" width="50" />
