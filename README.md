@@ -106,16 +106,16 @@ I am a passionate Software Engineering Undergraduate at  @[GVPCE](https://gvpce.
   </tr>
   <tr>
     <td colspan="2"><strong>Monthly Badges</strong><br>
-      <img src="2024-08.gif" width="50" />
-      <img src="2024-09.gif" width="50" />
-      <img src="2024-10.gif" width="50" />
-      <img src="2024-11.gif" width="50" />
-      <img src="2024-12.gif" width="50" />
+      <img src="2024-08.gif" width="70" />
+      <img src="2024-09.gif" width="70" />
+      <img src="2024-10.gif" width="70" />
+      <img src="2024-11.gif" width="70" />
+      <img src="2024-12.gif" width="70" />
       </br>
-      <img src="2025-01.gif" width="50" />
-      <img src="2025-02.gif" width="50" />
-      <img src="2025-03.gif" width="50" />
-      <img src="2025-05.gif" width="50" />
+      <img src="2025-01.gif" width="70" />
+      <img src="2025-02.gif" width="70" />
+      <img src="2025-03.gif" width="70" />
+      <img src="2025-05.gif" width="70" />
     </td>
   </tr>
 </table>
