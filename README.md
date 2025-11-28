@@ -4,7 +4,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
 <p align="center">
- 🌐 <a href="https://gunjesh.netlify.app" target="_blank"><strong>Portfolio</strong></a> 
+ 🌐 <a href="https://gunjesh.in" target="_blank"><strong>gunjesh.in</strong></a> 
  | ✍️ <a href="https://medium.com/@gunjesh843" target="_blank"><strong>Medium</strong></a> 
  | 🧠 <a href="https://leetcode.com/u/gunjesh843/" target="_blank"><strong>LeetCode</strong></a>
 </p>
